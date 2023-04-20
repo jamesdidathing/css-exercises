@@ -23,5 +23,7 @@ If you have a suggestion to improve an exercise, an idea for a new exercise, or 
 6. Do not submit your solutions to this repo, as any PRs that do so will be closed without merging.
 
 ## Current Progress
-Foundations 01 complete: Used external, internal and inline CSS styling to change fon sizing, font colours and background colours.
+- Foundations complete: Used external, internal and inline CSS styling to change fon sizing, font colours and background colours. Recognised how to use the correct selectors. Ordering selectors to fix specificity issues.
+- Foundations 02 complete: 
+
 
