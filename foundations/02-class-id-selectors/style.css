@@ -1,0 +1,19 @@
+.odd-el{
+    background-color: lightpink;
+    font: "Verdana", "DejaVu Sans", "sans-sarif";
+}
+
+#second-el{
+    color: blue;
+    font-size: 36px;
+}
+
+.odd-el-adjust-font-size{
+    font-size: 24px;
+}
+
+#fourth-el{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
